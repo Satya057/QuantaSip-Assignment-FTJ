@@ -16,23 +16,33 @@ and access a protected dashboard. It also provides proper error handling and fee
 - Backend: Express, MongoDB
 - Styling: CSS
 
+# Secure User Authentication System
+
+This project implements a secure user authentication system for a web application. The system allows users to register, log in, and access a protected dashboard. It also provides proper error handling and feedback for common issues like incorrect credentials or duplicate usernames.
+
 ## Screenshots
 
 ### Registration Page
 
-![Registration Page](https://ibb.co/2jx8rcf)
-
-Description: Add a brief description of what the registration page shows or its key features.
+![Registration Page](https://i.ibb.co/H74Gx64/registration.png)
 
 ### Login Page
 
-![Login Page](./screenshots/login.png)
-
-Description: Describe the login page and its functionalities briefly.
+![Login Page](https://i.ibb.co/7VNNL3F/login.png)
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](https://i.ibb.co/WcCzNPP/dashboard.png)
+
+## Technologies Used
+
+- Frontend: React, axios
+- Backend: Express, MongoDB
+- Styling: CSS
+
+## Folder Structure
+
+
 
 
 
