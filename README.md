@@ -24,16 +24,15 @@ This project implements a secure user authentication system for a web applicatio
 
 ### Registration Page
 
-![Registration Page](https://drive.google.com/file/d/1dWlJy9GvabTPPYwJQpsLwNpbVZhbgzj4/view?usp=sharing)
+![Registration Page](https://drive.google.com/uc?id=1dWlJy9GvabTPPYwJQpsLwNpbVZhbgzj4)
 
 ### Login Page
 
-![Login Page](https://i.ibb.co/7VNNL3F/login.png)
+![Login Page](https://drive.google.com/uc?id=YOUR_IMAGE_ID)
 
 ### Dashboard
 
-![Dashboard](https://i.ibb.co/WcCzNPP/dashboard.png)
-
+![Dashboard](https://drive.google.com/uc?id=YOUR_IMAGE_ID)
 ## Technologies Used
 
 - Frontend: React, axios
