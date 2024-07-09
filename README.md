@@ -20,19 +20,21 @@ and access a protected dashboard. It also provides proper error handling and fee
 
 This project implements a secure user authentication system for a web application. The system allows users to register, log in, and access a protected dashboard. It also provides proper error handling and feedback for common issues like incorrect credentials or duplicate usernames.
 
-## Screenshots
-
 ### Registration Page
 
-![Registration Page](https://drive.google.com/uc?id=1dWlJy9GvabTPPYwJQpsLwNpbVZhbgzj4)
+![Registration Page](https://drive.google.com/uc?id=YOUR_REGISTRATION_IMAGE_ID)
 
 ### Login Page
 
-![Login Page](https://drive.google.com/uc?id=YOUR_IMAGE_ID)
+![Login Page](https://drive.google.com/uc?id=1BVCmOM61HpAIiqTlLjXPeDcI_Vlrsgzg)
 
 ### Dashboard
 
-![Dashboard](https://drive.google.com/uc?id=YOUR_IMAGE_ID)
+![Dashboard](https://drive.google.com/uc?id=1S7IG_fWIVtXIS9lLsBYr4D-8zRNgU_A6)
+
+
+
+
 ## Technologies Used
 
 - Frontend: React, axios
