@@ -25,8 +25,7 @@ This project implements a secure user authentication system for a web applicatio
 ![Registration Page](https://drive.google.com/uc?id=1BVCmOM61HpAIiqTlLjXPeDcI_Vlrsgzg)
 
 ### Login Page
-
-![Login Page](https://drive.google.com/uc?id=1BVCmOM61HpAIiqTlLjXPeDcI_Vlrsgzg)
+![Login Page](https://drive.google.com/uc?id=1n7iF344GMf8HxNiV_HPzf5eyDkuAExAx)
 
 ### Dashboard
 
