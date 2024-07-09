@@ -24,7 +24,7 @@ This project implements a secure user authentication system for a web applicatio
 
 ### Registration Page
 
-![Registration Page](https://i.ibb.co/H74Gx64/registration.png)
+![Registration Page](https://drive.google.com/file/d/1dWlJy9GvabTPPYwJQpsLwNpbVZhbgzj4/view?usp=sharing)
 
 ### Login Page
 
