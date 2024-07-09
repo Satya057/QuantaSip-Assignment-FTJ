@@ -22,7 +22,7 @@ This project implements a secure user authentication system for a web applicatio
 
 ### Registration Page
 
-![Registration Page](https://drive.google.com/file/d/1n7iF344GMf8HxNiV_HPzf5eyDkuAExAx/view?usp=sharing)
+![Registration Page](https://drive.google.com/uc?id=1BVCmOM61HpAIiqTlLjXPeDcI_Vlrsgzg)
 
 ### Login Page
 
